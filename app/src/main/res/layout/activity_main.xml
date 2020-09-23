@@ -35,7 +35,6 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:enabled="false"
         android:onClick="onClickColorChng"
         android:text="ChngColor"
         app:layout_constraintBottom_toBottomOf="parent"
